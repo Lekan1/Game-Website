@@ -16,7 +16,7 @@ const Footer = () => {
           <span>
             <AiFillHeart className={styles.heart} />
           </span>{" "}
-          by Indra
+          Lekan Dar
         </p>
       </div>
     </footer>
